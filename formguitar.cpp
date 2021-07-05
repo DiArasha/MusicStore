@@ -4,7 +4,6 @@
 #include "guitar.h"
 #include <QDate>
 #include "CustomColorPlaceholderLineEdit.h"
-#include "CustomColorPlaceholderComboBox.h"
 #include <QKeyEvent>
 #include <QWidget>
 #include <QKeySequence>
